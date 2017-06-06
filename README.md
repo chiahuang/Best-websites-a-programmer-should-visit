@@ -14,9 +14,7 @@ When learning CS there are some useful sites you must know to get always informe
    * [Quora](https://www.quora.com/) : A place to share knowledge and better understand the world:
 
 # News
-   * [Hacker News](https://news.ycombinator.com/) : news aggregator for programmers where civility is king, try a newsletter to get top news to your inbox:
-      * [Hacker Newsletter](http://www.hackernewsletter.com/) : curated by hand, delivered weekly 
-      * [Hacker News Digest](https://hndigest.com/) : curated automatically, delivered as frequently as you want	
+   * [Hacker News](https://news.ycombinator.com/) : subscribe to their mailing list and get the top news directly to your inbox.
    * [Ars Technica](http://arstechnica.com/): posts unique quality articles
    * [ACM TechNews](http://technews.acm.org/)
    * [Lobsters](https://lobste.rs/) : Lobsters is a technology-focused community centered around link aggregation and discussion.
@@ -121,6 +119,7 @@ When learning CS there are some useful sites you must know to get always informe
   * [kimberli/interviews](https://github.com/kimberli/interviews) - study sheet for Interview
   * [Determining the big-O runtimes of these different loops?](http://stackoverflow.com/questions/11094330/determining-the-big-o-runtimes-of-these-different-loops) - really good stackoverflow question that covers basics of calculating runtime complexity.
   * [ChiperSoft/InterviewThis](https://github.com/ChiperSoft/InterviewThis) - questions to ask during on a interview to know more about the company.
+  * [h5bp/Front-end-Developer-Interview-Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions)
 
 # Documentaries
   * Machine that Changed the World - a very good documentary about history of computers
